@@ -1,0 +1,17 @@
+
+j
+java:S3008"TRename this field "DEVELOPER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÑ®æ
+k
+java:S3008"PRename this field "EMAIL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¾ŽÜüÿÿÿÿ
+—
+java:S1186("€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(åÚ”å
+q
+java:S1845""VRename field "developer" to prevent any misunderstanding/clash with field "DEVELOPER".(‚•è§ÿÿÿÿÿ
+k
+java:S1104"UMake DEVELOPER a static final constant or non-public and provide accessors if needed.(ÀÑ®æ
+l
+java:S1104"QMake EMAIL a static final constant or non-public and provide accessors if needed.(õ¾ŽÜüÿÿÿÿ
+E
+java:S1444"/Make this "public static DEVELOPER" field final(ÀÑ®æ
+F
+java:S1444"+Make this "public static EMAIL" field final(õ¾ŽÜüÿÿÿÿ

@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "name": "developer",
+      "type": "com.qianmeng.computerroom.mail.Developer",
+      "sourceType": "com.qianmeng.computerroom.mail.Developer"
+    }
+  ],
+  "properties": [
+    {
+      "name": "developer.email",
+      "type": "java.lang.String",
+      "description": "邮箱",
+      "sourceType": "com.qianmeng.computerroom.mail.Developer"
+    },
+    {
+      "name": "developer.list",
+      "type": "java.util.List<com.qianmeng.computerroom.mail.Developer>",
+      "description": "自身列表",
+      "sourceType": "com.qianmeng.computerroom.mail.Developer"
+    },
+    {
+      "name": "developer.name",
+      "type": "java.lang.String",
+      "description": "姓名",
+      "sourceType": "com.qianmeng.computerroom.mail.Developer"
+    }
+  ],
+  "hints": []
+}
